@@ -7,4 +7,5 @@
 ## Project Name
 ### API Integration and Data Visualization
 ## output
-###
+### <img width="1112" height="467" alt="image" src="https://github.com/user-attachments/assets/b5c09eee-f188-4a8e-a1c1-3bd1423c25d3" />
+
